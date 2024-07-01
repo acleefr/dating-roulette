@@ -61,4 +61,3 @@ This project was inspired by the need for a fun and interactive way to choose da
 ## Contact
 
 For any questions or suggestions, please contact Arthur at arthur@aclee.fr.
-```
