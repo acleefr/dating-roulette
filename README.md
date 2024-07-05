@@ -1,5 +1,5 @@
 
-# Dating Activity Roulette Wheel
+# Dating Roulette Wheel
 
 This project is a React application that simulates a roulette wheel for choosing dating activities. The wheel spins and lands on a random activity, providing a fun and spontaneous way to decide on a date.
 
